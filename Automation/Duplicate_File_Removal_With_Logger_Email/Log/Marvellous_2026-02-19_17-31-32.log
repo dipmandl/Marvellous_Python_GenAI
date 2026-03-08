@@ -1,0 +1,1897 @@
+--------------------------------------------------
+---- Marvellouse Platform Surveillance System ----
+Log created at: Thu Feb 19 17:31:32 2026
+--------------------------------------------------
+
+
+-------------System Report----------------------------------------------------------------
+CPU Usage: 6.8%
+--------------------------------------------------
+Ram Usage: 58.1%
+--------------------------------------------------
+Disk Usage Report: 
+--------------------------------------------------
+C:\  -> used 52.2%
+G:\  -> used 100.0%
+--------------------------------------------------
+Network Usage Report: 
+--------------------------------------------------
+Sent : 5628897.0 MB 
+Received : 52720535.0 MB 
+--------------------------------------------------
+--------- Process Log ---------
+PID : 0
+Name : System Idle Process
+Username : NT AUTHORITY\SYSTEM
+Status : running
+Start time : 1970-01-01 05:30:00
+CPU : 585.9
+Memory : 5.010766885344885e-05
+--------------------------------------------------
+PID : 4
+Name : System
+Username : NT AUTHORITY\SYSTEM
+Status : running
+Start time : 1970-01-01 05:30:00
+CPU : 0.0
+Memory : 0.01954199085284505
+--------------------------------------------------
+PID : 92
+Name : 
+Username : None
+Status : stopped
+Start time : 2026-01-31 14:20:48
+CPU : 0.0
+Memory : 0.25407093492141236
+--------------------------------------------------
+PID : 132
+Name : Registry
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:48
+CPU : 0.0
+Memory : 0.22170138084208446
+--------------------------------------------------
+PID : 508
+Name : backgroundTaskHost.exe
+Username : LOVEYOUALL\91951
+Status : stopped
+Start time : 2026-02-01 19:18:59
+CPU : 0.0
+Memory : 0.01177530218056048
+--------------------------------------------------
+PID : 608
+Name : smss.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:51
+CPU : 0.0
+Memory : 0.006864750632922492
+--------------------------------------------------
+PID : 852
+Name : sihost.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:50:17
+CPU : 0.0
+Memory : 0.23209872212917507
+--------------------------------------------------
+PID : 1100
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.05707263482407824
+--------------------------------------------------
+PID : 1176
+Name : csrss.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:57
+CPU : 0.0
+Memory : 0.03154277754324605
+--------------------------------------------------
+PID : 1304
+Name : wininit.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:57
+CPU : 0.0
+Memory : 0.04181484965820306
+--------------------------------------------------
+PID : 1312
+Name : csrss.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:57
+CPU : 0.0
+Memory : 0.03848268967944871
+--------------------------------------------------
+PID : 1316
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.07090235142763011
+--------------------------------------------------
+PID : 1380
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.11036214064972108
+--------------------------------------------------
+PID : 1392
+Name : services.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:57
+CPU : 0.0
+Memory : 0.09858683846916061
+--------------------------------------------------
+PID : 1420
+Name : winlogon.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:57
+CPU : 0.0
+Memory : 0.07390881155883705
+--------------------------------------------------
+PID : 1480
+Name : LsaIso.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:57
+CPU : 0.0
+Memory : 0.022498343315198534
+--------------------------------------------------
+PID : 1496
+Name : lsass.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:57
+CPU : 0.0
+Memory : 0.1731470497230925
+--------------------------------------------------
+PID : 1624
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.22200202685520512
+--------------------------------------------------
+PID : 1652
+Name : WUDFHost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.03748053630237974
+--------------------------------------------------
+PID : 1660
+Name : fontdrvhost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.028736748087452912
+--------------------------------------------------
+PID : 1664
+Name : fontdrvhost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.02457781157261666
+--------------------------------------------------
+PID : 1692
+Name : mcapexe.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:21:48
+CPU : 0.0
+Memory : 0.019015860329883838
+--------------------------------------------------
+PID : 1796
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.10928482576937194
+--------------------------------------------------
+PID : 1856
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.05228735244857388
+--------------------------------------------------
+PID : 1916
+Name : msedge.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-01 17:50:52
+CPU : 0.0
+Memory : 0.1257451949877299
+--------------------------------------------------
+PID : 1936
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.06879782933578527
+--------------------------------------------------
+PID : 1944
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.03209396190063399
+--------------------------------------------------
+PID : 1960
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:23:00
+CPU : 0.0
+Memory : 0.12915251646976442
+--------------------------------------------------
+PID : 1992
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.06679352258164732
+--------------------------------------------------
+PID : 2000
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.0616574865241688
+--------------------------------------------------
+PID : 2020
+Name : MfeAVSvc.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:21:48
+CPU : 0.0
+Memory : 0.07072697458664305
+--------------------------------------------------
+PID : 2028
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:25:00
+CPU : 0.0
+Memory : 0.07914506295402246
+--------------------------------------------------
+PID : 2192
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.09377650225922952
+--------------------------------------------------
+PID : 2212
+Name : msedgewebview2.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:52:52
+CPU : 0.0
+Memory : 0.06215856321270329
+--------------------------------------------------
+PID : 2224
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.05431671303713856
+--------------------------------------------------
+PID : 2252
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.12827563226482905
+--------------------------------------------------
+PID : 2260
+Name : amdfendrsr.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.04732669323208243
+--------------------------------------------------
+PID : 2268
+Name : atiesrxx.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.04116344996310823
+--------------------------------------------------
+PID : 2292
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:23:00
+CPU : 0.0
+Memory : 0.10282093648727704
+--------------------------------------------------
+PID : 2296
+Name : dwm.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.6794850434871931
+--------------------------------------------------
+PID : 2352
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 17:50:18
+CPU : 0.0
+Memory : 0.11903076736136775
+--------------------------------------------------
+PID : 2384
+Name : SearchHost.exe
+Username : LOVEYOUALL\91951
+Status : stopped
+Start time : 2026-01-31 17:50:49
+CPU : 0.0
+Memory : 1.5020525353854093
+--------------------------------------------------
+PID : 2392
+Name : shtctky.exe
+Username : None
+Status : running
+Start time : 2026-01-31 17:50:18
+CPU : 0.0
+Memory : 0.07821807108023365
+--------------------------------------------------
+PID : 2424
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.05985361044544465
+--------------------------------------------------
+PID : 2560
+Name : ctfmon.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:50:51
+CPU : 0.0
+Memory : 0.19514431634975654
+--------------------------------------------------
+PID : 2596
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.0638121162848671
+--------------------------------------------------
+PID : 2704
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.06969976737514734
+--------------------------------------------------
+PID : 2732
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.10605288112832448
+--------------------------------------------------
+PID : 2772
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.06651793040295334
+--------------------------------------------------
+PID : 2816
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.07566257996870776
+--------------------------------------------------
+PID : 2828
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.04890508480096607
+--------------------------------------------------
+PID : 2840
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.03617773691219007
+--------------------------------------------------
+PID : 2848
+Name : ETDService.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.04196517266476341
+--------------------------------------------------
+PID : 2980
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.3249732863490425
+--------------------------------------------------
+PID : 3028
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.13864791971749296
+--------------------------------------------------
+PID : 3044
+Name : MemCompression
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 1.9852908938080702
+--------------------------------------------------
+PID : 3056
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.03725505179253922
+--------------------------------------------------
+PID : 3164
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.11609946873344099
+--------------------------------------------------
+PID : 3176
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.054441982209272176
+--------------------------------------------------
+PID : 3184
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.058124895870000665
+--------------------------------------------------
+PID : 3304
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.04026151192374615
+--------------------------------------------------
+PID : 3324
+Name : msedge.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:50:20
+CPU : 0.0
+Memory : 0.06591663837671197
+--------------------------------------------------
+PID : 3396
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.08628540576563891
+--------------------------------------------------
+PID : 3420
+Name : armsvc.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.03910903554011683
+--------------------------------------------------
+PID : 3424
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:58
+CPU : 0.0
+Memory : 0.045297332643517756
+--------------------------------------------------
+PID : 3532
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.06508986184063006
+--------------------------------------------------
+PID : 3540
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.06481426966193608
+--------------------------------------------------
+PID : 3548
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.05183638342889283
+--------------------------------------------------
+PID : 3584
+Name : McCSPServiceHost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:21:04
+CPU : 0.0
+Memory : 0.13749544333386363
+--------------------------------------------------
+PID : 3668
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.04745196240421606
+--------------------------------------------------
+PID : 3676
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 18:07:32
+CPU : 0.0
+Memory : 0.05564456626175495
+--------------------------------------------------
+PID : 3688
+Name : DAX3API.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.10397341287090636
+--------------------------------------------------
+PID : 3752
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.1316077922435834
+--------------------------------------------------
+PID : 3784
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.09287456421986744
+--------------------------------------------------
+PID : 3836
+Name : spoolsv.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.15002236054722584
+--------------------------------------------------
+PID : 3860
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.11822904465971255
+--------------------------------------------------
+PID : 3904
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.04825368510587124
+--------------------------------------------------
+PID : 3980
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.043944425584474645
+--------------------------------------------------
+PID : 4052
+Name : tphkload.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.07904484761631556
+--------------------------------------------------
+PID : 4100
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.14075244180933782
+--------------------------------------------------
+PID : 4120
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.04923078464851349
+--------------------------------------------------
+PID : 4132
+Name : FMService64.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.048303792774724685
+--------------------------------------------------
+PID : 4172
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.06757019144887577
+--------------------------------------------------
+PID : 4180
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.13015466984683338
+--------------------------------------------------
+PID : 4192
+Name : ibmpmsvc.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.037129782620405595
+--------------------------------------------------
+PID : 4204
+Name : Lenovo.Modern.ImController.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.3722498719122715
+--------------------------------------------------
+PID : 4216
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:23:02
+CPU : 0.0
+Memory : 0.07513644944574654
+--------------------------------------------------
+PID : 4252
+Name : LITSSvc.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.05030809952886264
+--------------------------------------------------
+PID : 4328
+Name : mfemms.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.060204364127418794
+--------------------------------------------------
+PID : 4336
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.05682209647981099
+--------------------------------------------------
+PID : 4344
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.04567314015991862
+--------------------------------------------------
+PID : 4352
+Name : ModuleCoreService.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.4026401730718882
+--------------------------------------------------
+PID : 4392
+Name : RtkBtManServ.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.03189353122522019
+--------------------------------------------------
+PID : 4404
+Name : PEFService.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.026106095472646848
+--------------------------------------------------
+PID : 4484
+Name : RtkAudUService64.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.08290313811803111
+--------------------------------------------------
+PID : 4500
+Name : MpDefenderCoreService.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.1271983173844799
+--------------------------------------------------
+PID : 4528
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.03492504519085385
+--------------------------------------------------
+PID : 4548
+Name : UltraViewer_Service.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.14355847126513094
+--------------------------------------------------
+PID : 4576
+Name : MsMpEng.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 1.769101356539865
+--------------------------------------------------
+PID : 4628
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.13975028843226883
+--------------------------------------------------
+PID : 4748
+Name : wslservice.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.12805014775498855
+--------------------------------------------------
+PID : 4824
+Name : svchost.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:55:51
+CPU : 0.0
+Memory : 0.06969976737514734
+--------------------------------------------------
+PID : 4864
+Name : LenovoVantageService.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.426115615929729
+--------------------------------------------------
+PID : 4940
+Name : mfevtps.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.08460679885904838
+--------------------------------------------------
+PID : 5036
+Name : MMSSHOST.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.24440015483269675
+--------------------------------------------------
+PID : 5152
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:23:02
+CPU : 0.0
+Memory : 0.0946784402985916
+--------------------------------------------------
+PID : 5212
+Name : python.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-07 21:09:52
+CPU : 0.0
+Memory : 0.11194053221860473
+--------------------------------------------------
+PID : 5400
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.03973538140078494
+--------------------------------------------------
+PID : 5412
+Name : msedge.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-07 19:50:44
+CPU : 0.0
+Memory : 0.15112472926200174
+--------------------------------------------------
+PID : 5484
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.043643779571353944
+--------------------------------------------------
+PID : 5592
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:20:59
+CPU : 0.0
+Memory : 0.061857917199582606
+--------------------------------------------------
+PID : 5688
+Name : RuntimeBroker.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:50:49
+CPU : 0.0
+Memory : 0.21771782116823524
+--------------------------------------------------
+PID : 5856
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:23:03
+CPU : 0.0
+Memory : 0.07373343471784997
+--------------------------------------------------
+PID : 6168
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:21:00
+CPU : 0.0
+Memory : 0.24432499332941657
+--------------------------------------------------
+PID : 6200
+Name : msedgewebview2.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-19 17:25:24
+CPU : 0.0
+Memory : 0.23743518886206738
+--------------------------------------------------
+PID : 6216
+Name : ProtectedModuleHost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:21:00
+CPU : 0.0
+Memory : 0.0945782249608847
+--------------------------------------------------
+PID : 6252
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 17:40:33
+CPU : 0.0
+Memory : 0.09831124629046664
+--------------------------------------------------
+PID : 6388
+Name : svchost.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:50:18
+CPU : 0.0
+Memory : 0.03858290501715561
+--------------------------------------------------
+PID : 6472
+Name : msedge.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-07 11:13:24
+CPU : 0.0
+Memory : 0.3152774524259001
+--------------------------------------------------
+PID : 6576
+Name : AggregatorHost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:21:00
+CPU : 0.0
+Memory : 0.0676954606210094
+--------------------------------------------------
+PID : 6592
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:21:00
+CPU : 0.0
+Memory : 0.07944570896714315
+--------------------------------------------------
+PID : 6608
+Name : msedgewebview2.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:52:52
+CPU : 0.0
+Memory : 0.05464241288468597
+--------------------------------------------------
+PID : 6748
+Name : svchost.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:50:50
+CPU : 0.0
+Memory : 0.12233787350569537
+--------------------------------------------------
+PID : 6852
+Name : mcshield.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:21:48
+CPU : 0.0
+Memory : 0.059527910597897235
+--------------------------------------------------
+PID : 6972
+Name : mfefire.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:21:02
+CPU : 0.0
+Memory : 0.06624233822425937
+--------------------------------------------------
+PID : 7292
+Name : explorer.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:50:19
+CPU : 0.0
+Memory : 1.9884977846146907
+--------------------------------------------------
+PID : 7300
+Name : NisSrv.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:21:04
+CPU : 0.0
+Memory : 0.06684363025050076
+--------------------------------------------------
+PID : 7584
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:31:31
+CPU : 0.0
+Memory : 0.06203329404056967
+--------------------------------------------------
+PID : 7728
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:21:08
+CPU : 0.0
+Memory : 0.053790582514177336
+--------------------------------------------------
+PID : 7832
+Name : atieclxx.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:21:09
+CPU : 0.0
+Memory : 0.09325037173626831
+--------------------------------------------------
+PID : 7860
+Name : PowerMgr.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:50:18
+CPU : 0.0
+Memory : 0.05957801826675069
+--------------------------------------------------
+PID : 7904
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:21:09
+CPU : 0.0
+Memory : 0.05719790399621186
+--------------------------------------------------
+PID : 7912
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:23:00
+CPU : 0.0
+Memory : 0.12346529605489796
+--------------------------------------------------
+PID : 7992
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:21:09
+CPU : 0.0
+Memory : 0.07255590449979393
+--------------------------------------------------
+PID : 8020
+Name : taskhostw.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:50:18
+CPU : 0.0
+Memory : 0.13892351189618693
+--------------------------------------------------
+PID : 8072
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 14:23:02
+CPU : 0.0
+Memory : 0.047126262556668644
+--------------------------------------------------
+PID : 8196
+Name : svchost.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:50:18
+CPU : 0.0
+Memory : 0.2184944900354637
+--------------------------------------------------
+PID : 8284
+Name : msedge.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:50:19
+CPU : 0.0
+Memory : 1.544919646089535
+--------------------------------------------------
+PID : 8356
+Name : svchost.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:50:17
+CPU : 0.0
+Memory : 0.2139847998386533
+--------------------------------------------------
+PID : 8460
+Name : tposd.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:50:18
+CPU : 0.0
+Memory : 0.06341125493403951
+--------------------------------------------------
+PID : 8484
+Name : DAX3API.exe
+Username : None
+Status : running
+Start time : 2026-01-31 17:50:18
+CPU : 0.0
+Memory : 0.07360816554571635
+--------------------------------------------------
+PID : 8668
+Name : msedgewebview2.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-19 17:25:24
+CPU : 0.0
+Memory : 0.5052356250493247
+--------------------------------------------------
+PID : 8824
+Name : conhost.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:51:06
+CPU : 0.0
+Memory : 0.04091291161884099
+--------------------------------------------------
+PID : 9208
+Name : ETDCtrl.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:50:17
+CPU : 0.0
+Memory : 0.10091684507084599
+--------------------------------------------------
+PID : 9252
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 17:50:20
+CPU : 0.0
+Memory : 0.0824772229327768
+--------------------------------------------------
+PID : 9444
+Name : Widgets.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:50:50
+CPU : 0.0
+Memory : 0.3659363056367369
+--------------------------------------------------
+PID : 9576
+Name : msedge.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:50:20
+CPU : 0.0
+Memory : 0.3317378216442581
+--------------------------------------------------
+PID : 9592
+Name : msedge.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:50:20
+CPU : 0.0
+Memory : 1.2943061403190106
+--------------------------------------------------
+PID : 9668
+Name : msedgewebview2.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:52:53
+CPU : 0.0
+Memory : 0.011700140677280306
+--------------------------------------------------
+PID : 9696
+Name : RuntimeBroker.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:50:50
+CPU : 0.0
+Memory : 0.3641324295580128
+--------------------------------------------------
+PID : 9712
+Name : msedge.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:50:20
+CPU : 0.0
+Memory : 0.14343320209299731
+--------------------------------------------------
+PID : 10032
+Name : RtkAudUService64.exe
+Username : None
+Status : running
+Start time : 2026-01-31 17:50:21
+CPU : 0.0
+Memory : 0.08142496188685439
+--------------------------------------------------
+PID : 10188
+Name : RuntimeBroker.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 20:07:42
+CPU : 0.0
+Memory : 0.28308327518755927
+--------------------------------------------------
+PID : 10384
+Name : msedge.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-07 20:14:10
+CPU : 0.0
+Memory : 1.0730807823310338
+--------------------------------------------------
+PID : 10400
+Name : msedge.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-07 10:30:36
+CPU : 0.0
+Memory : 0.1271983173844799
+--------------------------------------------------
+PID : 10560
+Name : StartMenuExperienceHost.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:50:49
+CPU : 0.0
+Memory : 0.6037473020152052
+--------------------------------------------------
+PID : 10944
+Name : RtkAudUService64.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:50:48
+CPU : 0.0
+Memory : 0.03189353122522019
+--------------------------------------------------
+PID : 11008
+Name : LockApp.exe
+Username : LOVEYOUALL\91951
+Status : stopped
+Start time : 2026-01-31 20:07:42
+CPU : 0.0
+Memory : 0.5102463919346696
+--------------------------------------------------
+PID : 11072
+Name : RuntimeBroker.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:53:52
+CPU : 0.0
+Memory : 0.2238059029339293
+--------------------------------------------------
+PID : 11084
+Name : fsnotifier.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:51:06
+CPU : 0.0
+Memory : 0.016184777039663978
+--------------------------------------------------
+PID : 11192
+Name : svchost.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:50:49
+CPU : 0.0
+Memory : 0.1380716815256783
+--------------------------------------------------
+PID : 11340
+Name : dllhost.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:50:51
+CPU : 0.0
+Memory : 0.0949790863117123
+--------------------------------------------------
+PID : 11424
+Name : SecurityHealthSystray.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:50:57
+CPU : 0.0
+Memory : 0.06398749312585418
+--------------------------------------------------
+PID : 11428
+Name : PhoneExperienceHost.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:50:55
+CPU : 0.0
+Memory : 1.1609445796655564
+--------------------------------------------------
+PID : 11576
+Name : SecurityHealthService.exe
+Username : None
+Status : running
+Start time : 2026-01-31 17:50:57
+CPU : 0.0
+Memory : 0.11850463683840652
+--------------------------------------------------
+PID : 11860
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-07 10:30:12
+CPU : 0.0
+Memory : 0.06446351597996194
+--------------------------------------------------
+PID : 12000
+Name : UserOOBEBroker.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:50:53
+CPU : 0.0
+Memory : 0.05817500353885411
+--------------------------------------------------
+PID : 12300
+Name : McSmtFwk.exe
+Username : None
+Status : running
+Start time : 2026-02-07 10:49:28
+CPU : 0.0
+Memory : 0.07831828641794056
+--------------------------------------------------
+PID : 12388
+Name : crashpad_handler.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:51:11
+CPU : 0.0
+Memory : 0.057147796327358405
+--------------------------------------------------
+PID : 12628
+Name : msedge.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:50:59
+CPU : 0.0
+Memory : 1.73525362622936
+--------------------------------------------------
+PID : 12648
+Name : msedge.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:50:59
+CPU : 0.0
+Memory : 0.394021654029095
+--------------------------------------------------
+PID : 12820
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 17:55:51
+CPU : 0.0
+Memory : 0.04547270948450483
+--------------------------------------------------
+PID : 12848
+Name : TextInputHost.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:50:59
+CPU : 0.0
+Memory : 0.6856983944250208
+--------------------------------------------------
+PID : 13128
+Name : GoogleDriveFS.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:51:11
+CPU : 0.0
+Memory : 0.10587750428733742
+--------------------------------------------------
+PID : 13160
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-08 00:13:16
+CPU : 0.0
+Memory : 0.1772558785690753
+--------------------------------------------------
+PID : 13464
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 17:51:00
+CPU : 0.0
+Memory : 0.05885145706837567
+--------------------------------------------------
+PID : 13524
+Name : pycharm64.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:51:01
+CPU : 0.0
+Memory : 15.728321230243486
+--------------------------------------------------
+PID : 13552
+Name : LocationNotificationWindows.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:51:11
+CPU : 0.0
+Memory : 0.041188503797534956
+--------------------------------------------------
+PID : 13996
+Name : conhost.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-19 17:25:23
+CPU : 0.0
+Memory : 0.09640715487403559
+--------------------------------------------------
+PID : 14128
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 17:51:07
+CPU : 0.0
+Memory : 0.13646823612236794
+--------------------------------------------------
+PID : 14444
+Name : conhost.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:51:11
+CPU : 0.0
+Memory : 0.04214054950575048
+--------------------------------------------------
+PID : 14468
+Name : powershell.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:51:11
+CPU : 0.0
+Memory : 0.48586901103746677
+--------------------------------------------------
+PID : 14984
+Name : Lenovo.Modern.ImController.PluginHost.Device.exe
+Username : None
+Status : running
+Start time : 2026-02-19 17:25:38
+CPU : 0.0
+Memory : 0.31710638233905103
+--------------------------------------------------
+PID : 15060
+Name : msedgewebview2.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-19 17:25:23
+CPU : 0.0
+Memory : 0.8267514822474793
+--------------------------------------------------
+PID : 15392
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-19 17:24:53
+CPU : 0.0
+Memory : 0.039209250877823724
+--------------------------------------------------
+PID : 15424
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-19 17:26:55
+CPU : 0.0
+Memory : 0.044871417458263445
+--------------------------------------------------
+PID : 15540
+Name : WmiPrvSE.exe
+Username : None
+Status : running
+Start time : 2026-02-19 17:24:58
+CPU : 0.0
+Memory : 0.10933493343822538
+--------------------------------------------------
+PID : 15552
+Name : OfficeClickToRun.exe
+Username : None
+Status : running
+Start time : 2026-02-07 11:27:57
+CPU : 0.0
+Memory : 0.3146761603996588
+--------------------------------------------------
+PID : 15776
+Name : msedgewebview2.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-19 17:25:23
+CPU : 0.0
+Memory : 0.04943121532392728
+--------------------------------------------------
+PID : 16128
+Name : ModuleCoreService.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:51:17
+CPU : 0.0
+Memory : 0.18948214976931682
+--------------------------------------------------
+PID : 16148
+Name : msedge.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:51:20
+CPU : 0.0
+Memory : 0.1585907719211656
+--------------------------------------------------
+PID : 16184
+Name : conhost.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:51:17
+CPU : 0.0
+Memory : 0.0414390421418022
+--------------------------------------------------
+PID : 16284
+Name : taskhostw.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-07 10:31:06
+CPU : 0.0
+Memory : 0.18973268811358407
+--------------------------------------------------
+PID : 16312
+Name : RuntimeBroker.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:51:21
+CPU : 0.0
+Memory : 0.14538740117828183
+--------------------------------------------------
+PID : 16496
+Name : msedgewebview2.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:52:53
+CPU : 0.0
+Memory : 0.014957139152754482
+--------------------------------------------------
+PID : 16608
+Name : McUICnt.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-19 17:28:48
+CPU : 0.0
+Memory : 0.4267419617903971
+--------------------------------------------------
+PID : 16624
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-07 21:07:23
+CPU : 0.0
+Memory : 0.16981488974433814
+--------------------------------------------------
+PID : 16632
+Name : McUICnt.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-07 20:00:00
+CPU : 0.0
+Memory : 0.1940670014694074
+--------------------------------------------------
+PID : 16680
+Name : mspaint.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:51:48
+CPU : 0.0
+Memory : 0.6123407672235717
+--------------------------------------------------
+PID : 16684
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 17:51:49
+CPU : 0.0
+Memory : 0.06784578362756974
+--------------------------------------------------
+PID : 16716
+Name : Copilot.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:51:38
+CPU : 0.0
+Memory : 0.987246345585076
+--------------------------------------------------
+PID : 17152
+Name : backgroundTaskHost.exe
+Username : LOVEYOUALL\91951
+Status : stopped
+Start time : 2026-01-31 19:10:49
+CPU : 0.0
+Memory : 0.01137444082973289
+--------------------------------------------------
+PID : 17176
+Name : SystemSettingsBroker.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:55:51
+CPU : 0.0
+Memory : 0.19952873737443333
+--------------------------------------------------
+PID : 17336
+Name : msedge.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:55:20
+CPU : 0.0
+Memory : 0.11810377548757893
+--------------------------------------------------
+PID : 17568
+Name : RuntimeBroker.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:51:50
+CPU : 0.0
+Memory : 0.06809632197183699
+--------------------------------------------------
+PID : 17588
+Name : WidgetService.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:51:50
+CPU : 0.0
+Memory : 0.15603528080963971
+--------------------------------------------------
+PID : 17980
+Name : msedgewebview2.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-19 17:26:24
+CPU : 0.0
+Memory : 0.3878584107601208
+--------------------------------------------------
+PID : 17984
+Name : dllhost.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-01 11:52:50
+CPU : 0.0
+Memory : 0.05657155813554375
+--------------------------------------------------
+PID : 18072
+Name : msedgewebview2.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-19 17:25:24
+CPU : 0.0
+Memory : 0.6223623009942615
+--------------------------------------------------
+PID : 18444
+Name : ShellExperienceHost.exe
+Username : LOVEYOUALL\91951
+Status : stopped
+Start time : 2026-01-31 17:53:51
+CPU : 0.0
+Memory : 0.7031859708548744
+--------------------------------------------------
+PID : 18452
+Name : msedgewebview2.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-19 17:25:24
+CPU : 0.0
+Memory : 0.1168510837662427
+--------------------------------------------------
+PID : 18460
+Name : msedge.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-19 17:25:43
+CPU : 0.0
+Memory : 0.8500014405954796
+--------------------------------------------------
+PID : 18564
+Name : AppVShNotify.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-07 11:28:16
+CPU : 0.0
+Memory : 0.05136036057478507
+--------------------------------------------------
+PID : 18816
+Name : svchost.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:55:51
+CPU : 0.0
+Memory : 0.059552964432323954
+--------------------------------------------------
+PID : 18924
+Name : OneDrive.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-07 17:47:30
+CPU : 0.0
+Memory : 0.811593912419311
+--------------------------------------------------
+PID : 19024
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-01-31 17:55:52
+CPU : 0.0
+Memory : 0.08535841389185012
+--------------------------------------------------
+PID : 19156
+Name : svchost.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:52:18
+CPU : 0.0
+Memory : 0.12682250986807903
+--------------------------------------------------
+PID : 19244
+Name : msedgewebview2.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:52:53
+CPU : 0.0
+Memory : 0.006488943116521626
+--------------------------------------------------
+PID : 19328
+Name : msedgewebview2.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-01-31 17:52:53
+CPU : 0.0
+Memory : 0.02417695022178907
+--------------------------------------------------
+PID : 19412
+Name : SearchIndexer.exe
+Username : None
+Status : running
+Start time : 2026-02-07 11:29:21
+CPU : 0.0
+Memory : 0.1781828704428641
+--------------------------------------------------
+PID : 19776
+Name : msedge.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-07 10:30:36
+CPU : 0.0
+Memory : 0.21959685875023957
+--------------------------------------------------
+PID : 19944
+Name : DataExchangeHost.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-07 19:11:39
+CPU : 0.0
+Memory : 0.16901316704268296
+--------------------------------------------------
+PID : 20248
+Name : GoogleDriveFS.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-19 17:25:23
+CPU : 0.0
+Memory : 0.4052457718522676
+--------------------------------------------------
+PID : 20728
+Name : msedge.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-07 11:14:03
+CPU : 0.0
+Memory : 0.7034615630335684
+--------------------------------------------------
+PID : 20772
+Name : McAWFwk.exe
+Username : None
+Status : running
+Start time : 2026-02-07 10:49:37
+CPU : 0.0
+Memory : 0.12469293394180746
+--------------------------------------------------
+PID : 20784
+Name : msedge.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-19 17:30:01
+CPU : 0.0
+Memory : 0.2138845845009464
+--------------------------------------------------
+PID : 21004
+Name : msedgewebview2.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-19 17:25:03
+CPU : 0.0
+Memory : 0.36525985210721534
+--------------------------------------------------
+PID : 21540
+Name : OneDrive.Sync.Service.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-07 17:47:32
+CPU : 0.0
+Memory : 0.2822314448170506
+--------------------------------------------------
+PID : 21564
+Name : Lenovo.Modern.ImController.PluginHost.Device.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-19 17:25:38
+CPU : 0.0
+Memory : 0.23450389023414062
+--------------------------------------------------
+PID : 21640
+Name : msedgewebview2.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-19 17:25:03
+CPU : 0.0
+Memory : 0.3179582127095597
+--------------------------------------------------
+PID : 22068
+Name : Lenovo.Modern.ImController.PluginHost.Device.exe
+Username : None
+Status : running
+Start time : 2026-02-19 17:25:38
+CPU : 0.0
+Memory : 0.29395663932875765
+--------------------------------------------------
+PID : 22272
+Name : svchost.exe
+Username : None
+Status : running
+Start time : 2026-02-19 17:22:34
+CPU : 0.0
+Memory : 0.18008696185929518
+--------------------------------------------------
+PID : 22628
+Name : mchost.exe
+Username : None
+Status : running
+Start time : 2026-02-19 17:28:51
+CPU : 0.0
+Memory : 0.174374687610002
+--------------------------------------------------
+PID : 23028
+Name : msedge.exe
+Username : LOVEYOUALL\91951
+Status : running
+Start time : 2026-02-19 17:22:35
+CPU : 0.0
+Memory : 0.1224881965122557
+--------------------------------------------------
+--------------------------------------------------
+--------- End Of Log File ---------
+--------------------------------------------------

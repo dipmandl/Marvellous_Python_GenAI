@@ -1,0 +1,47 @@
+[
+  {
+    "test_name": "Blood Test",
+    "description": "A test to measure levels of components in the blood.",
+    "precautions": [
+      "Fast for 8–12 hours before certain blood tests.",
+      "Avoid alcohol 24 hours before test.",
+      "Take medications as prescribed unless instructed otherwise."
+    ]
+  },
+  {
+    "test_name": "MRI",
+    "description": "Magnetic Resonance Imaging to visualize internal structures.",
+    "precautions": [
+      "Remove all metal objects before scan.",
+      "Inform technician if you have implants or pacemakers.",
+      "Do not eat if sedation is required."
+    ]
+  },
+  {
+    "test_name": "ECG",
+    "description": "Electrocardiogram to measure heart activity.",
+    "precautions": [
+      "Avoid caffeine before the test.",
+      "Wear comfortable clothing.",
+      "Rest for 5–10 minutes before test."
+    ]
+  },
+  {
+    "test_name": "X-Ray",
+    "description": "Imaging technique to visualize bones and internal organs.",
+    "precautions": [
+      "Remove any metal jewelry.",
+      "Inform technician if pregnant.",
+      "Stay still during imaging."
+    ]
+  },
+  {
+    "test_name": "Ultrasound",
+    "description": "Imaging technique using sound waves to view internal organs.",
+    "precautions": [
+      "Drink water before abdominal ultrasound if required.",
+      "Wear comfortable clothing.",
+      "Follow fasting instructions if needed."
+    ]
+  }
+]
